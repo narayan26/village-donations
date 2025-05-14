@@ -1,6 +1,6 @@
 # Village Donations Website
 
-A website for collecting and donating items to children in Indian villages. This project facilitates the collection of clothes, toys, books, and monetary donations from US donors to help children in Kunnathur Colony, India.
+A website for collecting and donating items to children in Indian villages. This project facilitates the collection of clothes, toys, books, and monetary donations from US donors to help children in underserved Indian villages. Currently featuring Kunnathur Colony, with plans to expand to more villages in the future.
 
 ## Features
 - Information about our mission
